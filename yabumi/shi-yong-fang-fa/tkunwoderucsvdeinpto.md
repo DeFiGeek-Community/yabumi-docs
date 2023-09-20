@@ -1,6 +1,6 @@
 # トークン等を一括で送る方法（CSVで一括インポート）
 
-## ウォレットを接続し、SNSとの連携を済ませたら、サイト画面上部の一括送金をクリックしてください。テスト！
+## ウォレットを接続し、SNSとの連携を済ませたら、サイト画面上部の一括送金をクリックしてください。
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -57,5 +57,3 @@
 ## トークンの一括送信が完了しました！🎉
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>テスト</p></figcaption></figure>
