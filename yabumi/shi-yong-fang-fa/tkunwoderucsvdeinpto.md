@@ -30,8 +30,6 @@
 
 ![](<../../.gitbook/assets/image (20).png>)
 
-
-
 ## 使用上限を確認し、問題なければ承認ボタンを押してください。
 
 ![](<../../.gitbook/assets/image (33).png>)
@@ -60,3 +58,4 @@
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>テスト</p></figcaption></figure>
