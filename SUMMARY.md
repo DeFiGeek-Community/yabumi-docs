@@ -18,7 +18,7 @@
     * [Yabumi NFTのミント方法](yabumi/shi-yong-fang-fa/yabumi-nftnominto.md)
     * [トークン等を個別に送る方法](yabumi/shi-yong-fang-fa/tkunwoniru.md)
     * [トークン等を一括で送る方法（送金先情報を個別に追加）](yabumi/shi-yong-fang-fa/tkunwoderuwoni.md)
-    * [トークン等を一括で送る方法（CSVで一括インポート）](yabumi/shi-yong-fang-fa/tkunwoderucsvdeinpto.md)
+    * [トークン等を一括で送る方法（送金先情報をCSVで一括インポート）](yabumi/shi-yong-fang-fa/tkunwoderucsvdeinpto.md)
     * [メッセージを送る方法](yabumi/shi-yong-fang-fa/messjiworu.md)
     * [Yabumi NFTの転送方法](yabumi/shi-yong-fang-fa/yabumi-nftno.md)
     * [Yabumi NFTのバーン方法](yabumi/shi-yong-fang-fa/yabumi-nftnobn.md)
