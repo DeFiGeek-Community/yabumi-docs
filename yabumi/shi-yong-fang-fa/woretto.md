@@ -4,7 +4,7 @@
 
 （以下MetaMaskを例に解説します）
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 046 - Yabumi Minter - www.yabumi.defigeek.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ## MetaMaskを選択するとパスワード入力画面が表示されますので、入力欄にパスワードを入力してください。
 
@@ -26,6 +26,6 @@
 
 ## ウォレット接続が成功しました！🎉画面右上にあなたのアドレスの一部が表示されます。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 047 - Yabumi Minter - www.yabumi.defigeek.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ##

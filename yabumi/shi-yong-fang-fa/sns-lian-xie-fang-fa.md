@@ -2,7 +2,7 @@
 
 ## ウォレット接続後、画面中央のSNSへのサインインボタンを押してください。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 047 - Yabumi Minter - www.yabumi.defigeek.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ## 次の画面で認証ボタンを押してください。
 
