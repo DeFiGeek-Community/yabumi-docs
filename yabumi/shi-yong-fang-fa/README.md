@@ -2,15 +2,7 @@
 
 ## まずはYabumiの[WEBサイト](http://dev-payroll-nft.defigeek.xyz/board)にアクセスしてください。
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (44).png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../../.gitbook/assets/FireShot Capture 045 - Yabumi Minter - www.yabumi.defigeek.xyz.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ## [ウォレット接続方法](woretto.md)
 
