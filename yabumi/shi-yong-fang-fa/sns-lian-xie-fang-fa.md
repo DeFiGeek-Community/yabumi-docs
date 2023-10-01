@@ -1,6 +1,8 @@
 # SNS連携方法
 
-## ウォレット接続後、連携したいSNSを選択し、画面中央のサインインボタンを押してください。（以下、Discordとの接続を例にご説明します）
+## ウォレット接続後、連携したいSNSを選択し、画面中央のサインインボタンを押してください。
+
+（以下Discordとの接続を例にご説明します）
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 047 - Yabumi Minter - www.yabumi.defigeek.xyz.png" alt=""><figcaption></figcaption></figure>
 
