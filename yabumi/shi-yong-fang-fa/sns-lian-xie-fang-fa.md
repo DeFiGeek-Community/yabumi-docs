@@ -1,6 +1,6 @@
 # SNS連携方法
 
-## ウォレット接続後、連携したいSNS（DiscordかTwitter）をタブで選択し、画面中央のサインインボタンを押してください。
+## ウォレット接続後、連携したいSNS（DiscordかX）をタブで選択し、画面中央のサインインボタンを押してください。
 
 （以下Discordとの接続を例にご説明します）
 
@@ -14,6 +14,6 @@
 
 これでYabumi NFTのミント、転送、バーンや、トークンなどの送受信が可能になりました！
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 050 - Yabumi Minter - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ##
