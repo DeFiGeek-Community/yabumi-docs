@@ -1,12 +1,12 @@
 # トークン等を個別に送る方法
 
-## ウォレットを接続し、SNSとの連携を済ませたら、サイト画面上部のメンバー一覧をクリックしてください。
+## ウォレットを接続し、SNSとの連携を済ませたら、サイト画面上部のユーザー一覧をクリックしてください。
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 050 - Yabumi Minter - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## Yabumi NFT保有者のSNSアカウント一覧が表示されます。一覧から、送信相手を選び、アイコンの下にある送金の文字をクリックしてください。
+## Yabumi NFT保有者のSNSアカウント一覧が表示されます。一覧から、送信相手を選び、アイコンの下にある送金への文字をクリックしてください。
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 055 - Yabumi Members - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ## 送信先に送信したい相手のSNSアカウントが表示されているのを確認した後、トークンの銘柄と数量を選択してください。
 
