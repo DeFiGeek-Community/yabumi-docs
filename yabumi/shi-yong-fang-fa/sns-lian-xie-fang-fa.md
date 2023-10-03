@@ -14,6 +14,6 @@
 
 これでYabumi NFTのミント、転送、バーンや、トークンなどの送受信が可能になりました！
 
-<figure><img src="../../.gitbook/assets/FireShot Capture 050 - Yabumi Minter - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1.png" alt=""><figcaption></figcaption></figure>
 
 ##
