@@ -16,6 +16,12 @@
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 067 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
+## 署名の有効期限は1時間としています。期限を変更したい場合は、高度な設定の「Permit2署名の有効期限設定」をクリックして変更してください。分からない場合は、そのまま確認ボタンを押してください。
+
+
+
+<figure><img src="../../.gitbook/assets/FireShot Capture 071 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+
 ## 送金先、銘柄、数量に誤りがないか確認してください。トークンの承認が済んでいない場合は、承認ボタンを押してください。済んでいる場合は、送信ボタンを押してください。
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 068 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>

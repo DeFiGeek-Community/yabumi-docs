@@ -1,8 +1,8 @@
-# トークン等を一括で送る方法（CSVで一括インポート）
+# トークン等を一括で送る方法（送金先情報をCSVで一括インポート）
 
 ## ウォレットを接続し、SNSとの連携を済ませたら、サイト画面上部の一括送金をクリックしてください。
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 050 - Yabumi Minter - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ## 送金先、トークンの銘柄、数量を選択してください。送金先を増やしたい時は、銘柄の下の＋印をクリックしてください。削除したい場合は、数量の右の×印をクリックしてください。
 
