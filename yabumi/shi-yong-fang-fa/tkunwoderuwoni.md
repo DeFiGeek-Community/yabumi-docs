@@ -14,11 +14,11 @@
 
 ## 人数分選択が終わったら、確認ボタンを押してください。
 
-<figure><img src="../../.gitbook/assets/Group 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 067 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ## 送金先、銘柄、数量に誤りがないか確認してください。トークンの承認が済んでいない場合は、承認ボタンを押してください。済んでいる場合は、送信ボタンを押してください。
 
-<figure><img src="../../.gitbook/assets/FireShot Capture 064 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 068 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ## 入力欄に承認したいトークンの量を入力してください。「最大」をクリックすると、あなたが今持っているトークンの全残高を入力してくれます。「規定値を使用」をクリックするとトークンの上限が入力されます。
 
@@ -54,9 +54,9 @@
 
 ## トークン送信中の画面です。少々お待ちください。
 
-<figure><img src="../../.gitbook/assets/FireShot Capture 065 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 069 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
 ## トークンの一括送信が完了しました！🎉
 
-<figure><img src="../../.gitbook/assets/FireShot Capture 066 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 070 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
