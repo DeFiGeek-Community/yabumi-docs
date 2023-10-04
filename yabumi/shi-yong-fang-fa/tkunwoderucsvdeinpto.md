@@ -4,6 +4,10 @@
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 050 - Yabumi Minter - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
+## CSVファイルで一括指定する場合は「送金先のCSVをインポート」の枠内でCSVファイルを指定し、Googleスプレッドシートからインポートする場合は、スプレットシートのURLとシート名を入力して、下部のデータ取得ボタンを押してください。
+
+<figure><img src="../../.gitbook/assets/FireShot Capture 072 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+
 ## 送金先、トークンの銘柄、数量を選択してください。送金先を増やしたい時は、銘柄の下の＋印をクリックしてください。削除したい場合は、数量の右の×印をクリックしてください。
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
