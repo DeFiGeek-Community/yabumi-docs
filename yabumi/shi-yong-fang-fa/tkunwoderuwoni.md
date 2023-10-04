@@ -14,7 +14,7 @@
 
 ## 人数分選択が終わったら、確認ボタンを押してください。
 
-<figure><img src="../../.gitbook/assets/FireShot Capture 063 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 2.png" alt=""><figcaption></figcaption></figure>
 
 ## 送金先、銘柄、数量に誤りがないか確認してください。トークンの承認が済んでいない場合は、承認ボタンを押してください。済んでいる場合は、送信ボタンを押してください。
 
