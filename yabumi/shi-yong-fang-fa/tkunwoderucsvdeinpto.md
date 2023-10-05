@@ -16,11 +16,17 @@
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2023-10-05 22.35.41.png" alt=""><figcaption></figcaption></figure>
 
+## CSVファイルを選択かドロップしたら、選択されたファイル名が正しいことを確認し、送信ボタンを押してください。
+
+<figure><img src="../../.gitbook/assets/Group 5.png" alt=""><figcaption></figcaption></figure>
+
 ## スプレッドシートのサンプルです。
 
 <figure><img src="../../.gitbook/assets/Group 4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/FireShot Capture 077 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+## GoogleスプレッドシートのURLとシート名を入力したら、データ取得ボタンを押してください。
+
+<figure><img src="../../.gitbook/assets/Group 6.png" alt=""><figcaption></figcaption></figure>
 
 ## 送金先、トークンの銘柄、数量を選択してください。送金先を増やしたい時は、銘柄の下の＋印をクリックしてください。削除したい場合は、数量の右の×印をクリックしてください。
 
