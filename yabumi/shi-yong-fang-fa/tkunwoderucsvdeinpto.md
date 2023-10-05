@@ -44,7 +44,7 @@
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 071 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## トークンの承認が済んでいない場合は、承認ボタンを押してください。
+## トークンの承認が済んでいない場合は、承認ボタンを押してください。承認が済んでいる場合は、送信ボタンを押してください。
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
