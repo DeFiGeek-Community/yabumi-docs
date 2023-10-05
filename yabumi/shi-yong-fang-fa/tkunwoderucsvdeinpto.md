@@ -16,6 +16,8 @@
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2023-10-05 22.35.41.png" alt=""><figcaption></figcaption></figure>
 
+## サンプルファイル　ダウンロードは<mark style="color:blue;">こちら</mark>から。ご自由にお使いください。
+
 ## CSVファイルを選択かドロップしたら、選択されたファイル名が正しいことを確認し、送信ボタンを押してください。
 
 <figure><img src="../../.gitbook/assets/Group 5.png" alt=""><figcaption></figcaption></figure>
