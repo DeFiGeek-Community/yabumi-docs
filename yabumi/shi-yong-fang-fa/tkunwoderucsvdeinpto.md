@@ -28,9 +28,7 @@
 
 <figure><img src="../../.gitbook/assets/Group 4.png" alt=""><figcaption></figcaption></figure>
 
-## \[こちらのリンク]\([https://docs.google.com/spreadsheets/d/1Oz\_1apN3gqNyRFX1G\_O5sC-wQj5udCf5lvdJiaqACEI/edit#gid=0](https://docs.google.com/spreadsheets/d/1Oz\_1apN3gqNyRFX1G\_O5sC-wQj5udCf5lvdJiaqACEI/edit#gid=0))から、Googleスプレッドシートのサンプルをご利用いただけます。ご自由に改変してお使いください。
-
-\[sample]\([https://docs.google.com/spreadsheets/d/1Oz\_1apN3gqNyRFX1G\_O5sC-wQj5udCf5lvdJiaqACEI/edit#gid=0](https://docs.google.com/spreadsheets/d/1Oz\_1apN3gqNyRFX1G\_O5sC-wQj5udCf5lvdJiaqACEI/edit#gid=0))
+## [こちら](https://docs.google.com/spreadsheets/d/1Oz\_1apN3gqNyRFX1G\_O5sC-wQj5udCf5lvdJiaqACEI/edit#gid=0)から、Googleスプレッドシートのサンプルをご利用いただけます。ご自由に改変してお使いください
 
 ## GoogleスプレッドシートのURLとシート名を入力したら、データ取得ボタンを押してください。
 
