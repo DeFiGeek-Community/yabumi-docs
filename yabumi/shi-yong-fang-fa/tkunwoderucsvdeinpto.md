@@ -34,19 +34,17 @@
 
 <figure><img src="../../.gitbook/assets/Group 6.png" alt=""><figcaption></figcaption></figure>
 
-## 送金先、トークンの銘柄、数量を選択してください。送金先を増やしたい時は、銘柄の下の＋印をクリックしてください。削除したい場合は、数量の右の×印をクリックしてください。
+## ファイルがインポートできたら、ページ上部に表示された送金先、銘柄、数量がインポートした情報と一致しているかご確認ください。一致している場合は、確認ボタンを押してください。一致していない場合は、インポートした情報、および、書式が正確かご確認ください。
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 079 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## 送金先（SNSアカウント）選択画面です。
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-## 人数分選択が終わったら、確認ボタンを押してください。
+## 署名の有効期限は1時間としています。期限を変更したい場合は、高度な設定の「Permit2署名の有効期限設定」をクリックして変更してください。分からない場合は、そのまま確認ボタンを押してください。
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 071 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## 送金先、銘柄、数量に誤りがないか確認してください。トークンの承認が済んでいない場合は、承認ボタンを押してください。
+## トークンの承認が済んでいない場合は、承認ボタンを押してください。
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
