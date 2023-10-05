@@ -8,6 +8,20 @@
 
 <figure><img src="../../.gitbook/assets/Group 2 (2).png" alt=""><figcaption></figcaption></figure>
 
+## インポートするCSVファイル、スプレッドシートは以下のサンプルを参考に、同じ書式で作成してください。同じ書式でないと正確にインポートされませんので、ご注意ください。
+
+<figure><img src="../../.gitbook/assets/FireShot Capture 075 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+
+## CSVファイルのサンプルです。
+
+<figure><img src="../../.gitbook/assets/スクリーンショット 2023-10-05 22.35.41.png" alt=""><figcaption></figcaption></figure>
+
+## スプレッドシートのサンプルです。
+
+<figure><img src="../../.gitbook/assets/Group 4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/FireShot Capture 077 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
+
 ## 送金先、トークンの銘柄、数量を選択してください。送金先を増やしたい時は、銘柄の下の＋印をクリックしてください。削除したい場合は、数量の右の×印をクリックしてください。
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
