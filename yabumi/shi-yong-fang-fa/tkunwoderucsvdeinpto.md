@@ -16,7 +16,9 @@
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2023-10-05 22.35.41.png" alt=""><figcaption></figcaption></figure>
 
-## サンプルファイル　ダウンロードは<mark style="color:blue;">こちら</mark>から。ご自由にお使いください。
+## 以下のサンプルファイルをダウンロードし、ご自由にお使いください。
+
+{% file src="../../.gitbook/assets/yabumi_csv_sample.csv" %}
 
 ## CSVファイルを選択かドロップしたら、選択されたファイル名が正しいことを確認し、送信ボタンを押してください。
 
@@ -25,6 +27,8 @@
 ## スプレッドシートのサンプルです。
 
 <figure><img src="../../.gitbook/assets/Group 4.png" alt=""><figcaption></figcaption></figure>
+
+## \[こちらのリンク]\([https://docs.google.com/spreadsheets/d/1Oz\_1apN3gqNyRFX1G\_O5sC-wQj5udCf5lvdJiaqACEI/edit#gid=0](https://docs.google.com/spreadsheets/d/1Oz\_1apN3gqNyRFX1G\_O5sC-wQj5udCf5lvdJiaqACEI/edit#gid=0))から、Googleスプレッドシートのサンプルをご利用いただけます。ご自由に改変してお使いください。
 
 ## GoogleスプレッドシートのURLとシート名を入力したら、データ取得ボタンを押してください。
 
