@@ -14,7 +14,7 @@ layout:
 
 # 使用方法
 
-## まずはYabumiの[WEBサイト](http://dev-payroll-nft.defigeek.xyz/board)にアクセスしてください。
+## まずはYabumiの[WEBサイト](https://www.yabumi.xyz/)にアクセスしてください。
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 045 - Yabumi Minter - www.yabumi.defigeek.xyz.png" alt=""><figcaption></figcaption></figure>
 

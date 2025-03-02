@@ -4,6 +4,8 @@ description: TwitterやDiscordなどのSNSアカウント宛てにトークン�
 
 # Yabumi
 
+## [公式サイト](https://www.yabumi.xyz/)
+
 ## 🔻Yabumiとは何ですか？
 
 Yabumiは、相手のウォレットアドレスを知らなくても、SNSアカウントを利用してトークンやNFTの送受信ができる革新的なプラットフォームです。
