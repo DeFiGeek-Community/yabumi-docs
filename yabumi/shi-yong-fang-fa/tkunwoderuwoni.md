@@ -1,14 +1,28 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # トークン等を一括で送る方法（送金先情報を個別に追加）
 
 ## ウォレットを接続し、SNSとの連携を済ませたら、サイト画面上部の一括送金をクリックしてください。
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 050 - Yabumi Minter - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## 送金先、トークンの銘柄、数量を選択してください。送金先を増やしたい時は、銘柄の下の＋印をクリックしてください。削除したい場合は、数量の右の×印をクリックしてください。
+## 送金先、トークンの銘柄、数量を選択してください。送金先を増やしたい時は、銘柄の下の＋印をクリックしてください。　　削除したい場合は、数量の右の×印をクリックしてください。
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 061 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## 送金先（SNSアカウント）選択画面です。ユーザー名での検索、SNSを指定してのフィルターも可能です。
+## 送金先（SNSアカウント）選択画面です。ユーザー名での　　検索、SNSを指定してのフィルターも可能です。
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 062 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +36,7 @@
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 071 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## 送金先、銘柄、数量に誤りがないか確認してください。トークンの承認が済んでいない場合は、承認ボタンを押してください。済んでいる場合は、送信ボタンを押してください。
+## 送金先、銘柄、数量に誤りがないか確認してください。　　　　トークンの承認が済んでいない場合は、承認ボタンを押して　ください。済んでいる場合は、送信ボタンを押してください。
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 068 - Yabumi Sender multiple - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 使用方法
 
 ## まずはYabumiの[WEBサイト](http://dev-payroll-nft.defigeek.xyz/board)にアクセスしてください。

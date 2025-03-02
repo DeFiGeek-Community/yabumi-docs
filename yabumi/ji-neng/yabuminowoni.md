@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Yabumiの機能（送金を例に）
 
 送金したい人は、対象者をYabumi NFT一覧から選択し、トークン種と数量を指定します。

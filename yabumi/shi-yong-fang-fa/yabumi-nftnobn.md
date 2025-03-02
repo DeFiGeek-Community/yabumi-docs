@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Yabumi NFTのバーン方法
 
 ## ウォレットを接続し、SNSとの連携を済ませたら、アイコンの下のNFT Burnボタンを押してください。

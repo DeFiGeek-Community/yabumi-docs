@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 050 - Yabumi Minter - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## Yabumi NFT保有者のSNSアカウント一覧が表示されます。ユーザー名での検索、SNSを指定してのフィルターも可能です。一覧から、送信相手を選び、アイコンの下にある送金への文字をクリックしてください。
+## Yabumi NFT保有者のSNSアカウント一覧が表示されます。　　ユーザー名での検索、SNSを指定してのフィルターも可能です。一覧から、送信相手を選び、アイコンの下にある送金への文字をクリックしてください。
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 055 - Yabumi Members - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@
 
 <figure><img src="../../.gitbook/assets/FireShot Capture 058 - Yabumi Sender - www.yabumi.xyz.png" alt=""><figcaption></figcaption></figure>
 
-## ウォレットのポップアップが開いたら、下部の確認ボタンを押してください。
+## ウォレットのポップアップが開いたら、下部の確認ボタンを　押してください。
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2023-10-04 8.27.23.png" alt=""><figcaption></figcaption></figure>
 

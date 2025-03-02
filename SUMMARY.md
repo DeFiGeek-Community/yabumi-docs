@@ -12,6 +12,7 @@
     * [Yabumi NFT バーン](yabumi/mi/yabumi-nft-bn.md)
     * [その他](yabumi/mi/sono.md)
     * [システム概要図（仮）](yabumi/mi/shisutemu.md)
+    * [コントラクトアドレス](readme/mi/kontorakutoadoresu.md)
   * [使用方法](yabumi/shi-yong-fang-fa/README.md)
     * [ウォレット接続方法](yabumi/shi-yong-fang-fa/woretto.md)
     * [SNS連携方法](yabumi/shi-yong-fang-fa/sns-lian-xie-fang-fa.md)

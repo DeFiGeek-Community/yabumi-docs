@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Yabumi NFTの機能
 
 YabumiのWEBサイトでNFTをミントすると、SNSアカウントとウォレットアドレスを紐づけることができます。
