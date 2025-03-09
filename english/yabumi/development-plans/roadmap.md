@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Roadmap
 
 ### V0.99: Test on DFGC server (Goerli testnet).&#x20;
@@ -13,7 +27,7 @@
 ### V1 (Full Discord Account Support):
 
 1. User search by username (not nickname).
-2. Search using #〇〇〇〇 (similar to @〇〇〇〇 on Twitter).
+2. Search using #〇〇〇〇 (similar to @〇〇〇〇 on X).
 3. Search in affiliated servers.
 4. Ability to select multiple recipients for sending.
 5. Recipient list registration.&#x20;

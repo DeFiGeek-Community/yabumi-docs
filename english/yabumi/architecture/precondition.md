@@ -2,7 +2,7 @@
 
 ## SNS ID
 
-Yabumi uses unique numbers to identify various SNS sites. For example, Discord is ID 1, Twitter is ID 2, etc.. To reduce gas costs, this numbering scheme has been adopted.
+Yabumi uses unique numbers to identify various SNS sites. For example, Discord is ID 1, X is ID 2, etc.. To reduce gas costs, this numbering scheme has been adopted.
 
 ## Signatures
 
