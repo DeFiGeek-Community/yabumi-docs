@@ -1,5 +1,5 @@
 ---
-description: TwitterやDiscordなどのSNSアカウント宛てにトークンなどを送信できるプラットフォーム
+description: X や Discord などの SNS アカウント宛てにトークンなどを送信できるプラットフォーム
 ---
 
 # Yabumi
