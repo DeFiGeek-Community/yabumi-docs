@@ -1,7 +1,7 @@
 ---
 description: >-
-  Open platform for sending tokens and messages to specified Twitter, Discord,
-  and other SNS accounts.
+  Open platform for sending tokens and messages to specified X, Discord, and
+  other SNS accounts.
 ---
 
 # Yabumi
